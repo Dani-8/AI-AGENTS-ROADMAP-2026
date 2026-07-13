@@ -8,9 +8,9 @@
 ![Banner](./assets/banner.png)
 
 [![Journey Progress](https://img.shields.io/badge/2026%20Progress-Month%207%2F12-blueviolet?style=for-the-badge)](#-monthly-roadmap-2026)
-[![Stars](https://img.shields.io/github/stars/Dani-8/ai-agents-2026?style=for-the-badge&color=yellow)](https://github.com/Dani-8/ai-agents-2026/stargazers)
-[![Forks](https://img.shields.io/github/forks/Dani-8/ai-agents-2026?style=for-the-badge&color=orange)](https://github.com/Dani-8/ai-agents-2026/network/members)
-[![Last Commit](https://img.shields.io/github/last-commit/Dani-8/ai-agents-2026?style=for-the-badge&color=success)](https://github.com/Dani-8/ai-agents-2026/commits/main)
+[![Stars](https://img.shields.io/github/stars/Dani-8/AI-AGENTS-ROADMAP-2026?style=for-the-badge&color=yellow)](https://github.com/Dani-8/AI-AGENTS-ROADMAP-2026/stargazers)
+[![Forks](https://img.shields.io/github/forks/Dani-8/AI-AGENTS-ROADMAP-2026?style=for-the-badge&color=orange)](https://github.com/Dani-8/AI-AGENTS-ROADMAP-2026/network/members)
+[![Last Commit](https://img.shields.io/github/last-commit/Dani-8/AI-AGENTS-ROADMAP-2026?style=for-the-badge&color=success)](https://github.com/Dani-8/AI-AGENTS-ROADMAP-2026/commits/main)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](./LICENSE)
 
 **⭐ Star this repo to follow along — new agents ship monthly.**
@@ -184,7 +184,7 @@ A running log of monthly reflections lives in [`notes/`](./notes) — real thoug
 
 - **Jul 2026** — *(in progress)* Repo kicked off! Racing through LLM basics and RAG fundamentals to get to real agent-building fast.
 
-More monthly entries added as the year progresses. Follow the [commit history](https://github.com/Dani-8/ai-agents-2026/commits/main) for the raw, unfiltered version.
+More monthly entries added as the year progresses. Follow the [commit history](https://github.com/Dani-8/AI-AGENTS-ROADMAP-2026/commits/main) for the raw, unfiltered version.
 
 ---
 
