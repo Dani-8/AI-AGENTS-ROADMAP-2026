@@ -59,28 +59,22 @@ This isn't a tutorial dump — it's a **living journal**. Every month I pick a t
 
 | Month | Theme | Focus | Status |
 |-------|-------|-------|--------|
-| Jan – Jun | 🏗️ Foundations | LLM basics, prompting, RAG, tool calling, first agents | ✅ Complete |
-| **Aug** | 🧭 **Planning & Reasoning Agents** | ReAct, Chain-of-Thought agents, task decomposition | 🔄 In Progress |
+| **Jul** | 🏗️ **Foundations & Kickoff** | LLM basics, prompting, RAG, tool calling, first agents — fast-tracked to get building | 🔄 In Progress |
+| **Aug** | 🧭 **Planning & Reasoning Agents** | ReAct, Chain-of-Thought agents, task decomposition | 🔜 Upcoming |
 | **Sep** | 🧑‍🤝‍🧑 **Multi-Agent Systems** | Agent-to-agent communication, orchestration frameworks | 🔜 Upcoming |
 | **Oct** | 🧠 **Memory & Long-Term Context** | Vector memory, episodic recall, self-improving agents | 🔜 Upcoming |
 | **Nov** | 🔐 **Production-Ready Agents** | Guardrails, evaluation, observability, cost control | 🔜 Upcoming |
 | **Dec** | 🚀 **Capstone & Deployment** | End-to-end autonomous agent, deployed live + full retrospective | 🔜 Upcoming |
 
-> 📌 *Roadmap is a living document — themes may shift as tools and best practices evolve throughout the year.*
+> 📌 *Started mid-July 2026 — the journey runs Jul through Dec. Roadmap is a living document and themes may shift as things evolve.*
 
 ---
 
 ## 📊 Progress Tracker
 
 ```
-Jan ████████████ 100%  Foundations
-Feb ████████████ 100%  Foundations
-Mar ████████████ 100%  Foundations
-Apr ████████████ 100%  Foundations
-May ████████████ 100%  Foundations
-Jun ████████████ 100%  Foundations
-Jul ██████░░░░░░  50%  Foundations Wrap-up
-Aug ░░░░░░░░░░░░   0%  Planning & Reasoning Agents  🔄
+Jul ██████        50%  Foundations & Kickoff  🔄  (started mid-July)
+Aug ░░░░░░░░░░░░   0%  Planning & Reasoning Agents
 Sep ░░░░░░░░░░░░   0%  Multi-Agent Systems
 Oct ░░░░░░░░░░░░   0%  Memory & Long-Term Context
 Nov ░░░░░░░░░░░░   0%  Production-Ready Agents
@@ -111,7 +105,7 @@ Each project ships with its own `README.md`, architecture diagram, and a short w
 ```
 ai-agents-2026/
 │
-├── 📁 01-foundations/          # Jan–Jul: LLM basics, prompting, RAG, tool calling
+├── 📁 01-foundations/          # Jul: LLM basics, prompting, RAG, tool calling (fast-tracked kickoff)
 ├── 📁 02-planning-agents/      # Aug: ReAct, reasoning, task decomposition
 ├── 📁 03-multi-agent-systems/  # Sep: Orchestration, agent communication
 ├── 📁 04-memory-agents/        # Oct: Long-term memory, vector recall
@@ -188,8 +182,7 @@ A running list of what's actually shaping this journey — updated as I go:
 
 A running log of monthly reflections lives in [`notes/`](./notes) — real thoughts on what worked, what broke, and what I'd do differently. A few highlights:
 
-- **Jul 2026** — Wrapped up foundations. RAG pipelines finally click. Moving to reasoning agents next.
-- **Aug 2026** — *(in progress)* ReAct agents are deceptively simple to prototype, brutal to make reliable.
+- **Jul 2026** — *(in progress)* Repo kicked off! Racing through LLM basics and RAG fundamentals to get to real agent-building fast.
 
 More monthly entries added as the year progresses. Follow the [commit history](https://github.com/Dani-8/ai-agents-2026/commits/main) for the raw, unfiltered version.
 
@@ -211,7 +204,7 @@ If you're learning AI agents too, or just curious how this unfolds:
 
 **Let's build it in public.**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Dani-8/ai-agents-2026&type=Date)](https://star-history.com/#Dani-8/ai-agents-2026&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Dani-8/AI-AGENTS-ROADMAP-2026&type=Date)](https://star-history.com/#Dani-8/AI-AGENTS-ROADMAP-2026&Date)
 
 </div>
 
