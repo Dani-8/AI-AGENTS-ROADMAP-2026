@@ -1,0 +1,18 @@
+# Environment
+.env
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Vector store / cache
+*.chroma/
+.cache/
+
+ai-agents-2026/
+assets/

@@ -4,12 +4,8 @@
 
 ### 🚀 Build Real Agents Before the Year Ends — one month at a time.
 
-<!-- Banner Suggestion: A wide 1200x400 hero image with a dark navy/purple gradient background,
-     a glowing neural-network / agent-orchestration graphic on the right, and bold text on the left:
-     "AI AGENTS MASTERY · 2026 JOURNEY". Tools like Canva, Figma, or a quick Midjourney/DALL·E
-     prompt ("futuristic AI agent network, dark theme, neon accents, minimal, banner") work great.
-     Save it as assets/banner.png and reference it below: -->
-<!-- ![Banner](./assets/banner.png) -->
+
+![Banner](./assets/banner.png)
 
 [![Journey Progress](https://img.shields.io/badge/2026%20Progress-Month%207%2F12-blueviolet?style=for-the-badge)](#-monthly-roadmap-2026)
 [![Stars](https://img.shields.io/github/stars/Dani-8/ai-agents-2026?style=for-the-badge&color=yellow)](https://github.com/Dani-8/ai-agents-2026/stargazers)
@@ -41,17 +37,21 @@ This isn't a tutorial dump — it's a **living journal**. Every month I pick a t
 
 ## 📑 Table of Contents
 
-- [About This Repo](#-about-this-repo)
-- [Monthly Roadmap (2026)](#-monthly-roadmap-2026)
-- [Progress Tracker](#-progress-tracker)
-- [What I'll Build](#-what-ill-build)
-- [Folder Structure](#-folder-structure)
-- [Tech Stack](#-tech-stack)
-- [How to Use This Repo](#-how-to-use-this-repo)
-- [Resources I'm Learning From](#-resources-im-learning-from)
-- [Journey Log](#-journey-log)
-- [Follow Along](#-follow-along--support-the-journey)
-- [License](#-license)
+- [🤖 AI Agents Roadmap 2026: Learn \& Build Real Agents Before the Year Ends](#-ai-agents-roadmap-2026-learn--build-real-agents-before-the-year-ends)
+    - [🚀 Build Real Agents Before the Year Ends — one month at a time.](#-build-real-agents-before-the-year-ends--one-month-at-a-time)
+  - [📖 About This Repo](#-about-this-repo)
+  - [📑 Table of Contents](#-table-of-contents)
+  - [🗓️ Monthly Roadmap (2026)](#️-monthly-roadmap-2026)
+  - [📊 Progress Tracker](#-progress-tracker)
+  - [🛠️ What I'll Build](#️-what-ill-build)
+  - [📂 Folder Structure](#-folder-structure)
+  - [⚙️ Tech Stack](#️-tech-stack)
+  - [🧭 How to Use This Repo](#-how-to-use-this-repo)
+  - [📚 Resources I'm Learning From](#-resources-im-learning-from)
+  - [📝 Journey Log](#-journey-log)
+  - [🌟 Follow Along \& Support the Journey](#-follow-along--support-the-journey)
+    - [🔥 5 months left. 6 projects. 1 goal: real AI Agent mastery.](#-5-months-left-6-projects-1-goal-real-ai-agent-mastery)
+  - [📄 License](#-license)
 
 ---
 
