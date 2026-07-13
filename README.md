@@ -50,7 +50,7 @@ This isn't a tutorial dump — it's a **living journal**. Every month I pick a t
   - [📚 Resources I'm Learning From](#-resources-im-learning-from)
   - [📝 Journey Log](#-journey-log)
   - [🌟 Follow Along \& Support the Journey](#-follow-along--support-the-journey)
-    - [🔥 5 months left. 6 projects. 1 goal: real AI Agent mastery.](#-5-months-left-6-projects-1-goal-real-ai-agent-mastery)
+    - [🔥 Just kicked off. 6 projects. 1 goal: real AI Agent mastery by December.](#-just-kicked-off-6-projects-1-goal-real-ai-agent-mastery-by-december)
   - [📄 License](#-license)
 
 ---
@@ -200,7 +200,7 @@ If you're learning AI agents too, or just curious how this unfolds:
 
 <div align="center">
 
-### 🔥 5 months left. 6 projects. 1 goal: real AI Agent mastery.
+### 🔥 Just kicked off. 6 projects. 1 goal: real AI Agent mastery by December.
 
 **Let's build it in public.**
 
