@@ -204,7 +204,8 @@ If you're learning AI agents too, or just curious how this unfolds:
 
 **Let's build it in public.**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Dani-8/AI-AGENTS-ROADMAP-2026&type=Date)](https://star-history.com/#Dani-8/AI-AGENTS-ROADMAP-2026&Date)
+[![Star History Chart](https://www.star-history.com/?repos=Dani-8%2FAI-AGENTS-ROADMAP-2026&type=timeline&logscale=&legend=top-left)](https://www.star-history.com/?repos=Dani-8%2FAI-AGENTS-ROADMAP-2026&type=timeline&logscale=&legend=top-left)
+
 
 </div>
 
