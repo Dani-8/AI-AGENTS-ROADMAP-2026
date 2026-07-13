@@ -1,0 +1,18 @@
+# Core
+anthropic>=0.40.0
+openai>=1.50.0
+python-dotenv>=1.0.0
+
+# Agent orchestration
+langchain>=0.3.0
+langgraph>=0.2.0
+
+# Memory / retrieval
+chromadb>=0.5.0
+
+# API serving
+fastapi>=0.115.0
+uvicorn>=0.30.0
+
+# Dev / notebooks
+jupyter>=1.0.0
